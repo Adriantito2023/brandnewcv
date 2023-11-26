@@ -1,0 +1,66 @@
+*{
+    background: black;
+    margin: 30px;
+    }
+#name{
+    color:  lime;
+    font-size: 65px;
+    font-weight: bolder;
+    margin-top: 0;
+    margin-bottom: 0;
+    }
+    img{
+        width: 250px;
+        height: 250px;
+        }
+    h2{
+    color: lime;
+    }
+    h4 {
+    color:  lime;
+    }
+.heading{
+    color: white;
+    font-size: 32px;
+    font-family: Oswald,  Noto Sans ;
+    margin-bottom: 0;
+    }
+    ul{
+    color: grey;
+    }
+    p{
+    color: grey;
+    margin-top: 0;
+    margin-bottom: 0;
+    }
+.sub{
+    color: white;
+    font-size: 18px
+    }
+ a{
+     color:  white;
+   }
+h6{
+   color: white;
+   }
+.tub{
+   font-size: 15px;
+   margin-top: 0;
+  margin-bottom: 0;
+   }
+.tap{
+   margin-top: 100px;
+   margin-bottom: 0;
+   }
+.hub{
+  color: grey;
+   }
+.line{
+   color: antiquewhite;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   }
+.interests{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
